@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000013
+initial_creation_type: ebook
+source_metadata:
   title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད་།
   authors:
   - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་ཡོན་ཏན་རྒྱ་མཚོ།
   - མཛད་པ་པོ། སྡོམ་བུ་བ་པདྨ་རྣམ་རྒྱལ།
-  sku: RDI-SS-09
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: RDI-SS-09
 web_metadata:
   title:
     en: The Light of the Jewel:A Commentary on the Key Points of Jamgon Kongtrul Lodro
